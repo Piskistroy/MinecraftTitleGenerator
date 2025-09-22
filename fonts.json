@@ -181,6 +181,23 @@
     "terminatorSpace": true
   },
   {
+    "id": "mineplayer-v1",
+    "author": "...",
+    "height": 34,
+    "border": 206,
+    "faces": [
+      [16, 46],
+      [80, 110],
+      [144, 150, 180, 188]
+    ],
+    "ends": [
+      [0, 16, 46, 62],
+      [64, 80, 110, 126],
+      [128, 144, 188, 204]
+    ],
+    "terminatorSpace": true
+  },
+  {
     "id": "minecraft-sga",
     "name": "Minecraft SGA",
     "author": "Westbot",
